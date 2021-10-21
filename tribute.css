@@ -1,0 +1,15 @@
+body {
+  font-family: verdana;
+  background: #228B22;
+  color: white;
+  text-align: center;
+}
+
+ul {
+  font-family: times new roman;
+  background: #228B22;
+  color: white;
+  text-align: left;
+  letter-spacing: 1px;
+}
+
